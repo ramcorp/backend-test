@@ -8,7 +8,7 @@ However, amidst the devastation, you stand as the final survivor equipped with a
 Recognizing the critical role you can play in humanity's survival, you embark on a mission to aid the resistance.
 With your expertise, you create a resilient network known as the "Survival Nexus." This system acts as a vital lifeline, enabling the remaining humans to detect new infections, coordinate resources, and bolster their chances of enduring this unprecedented crisis.
 
-## Requirements
+## Features
 
 You will develop an API that will allow the resistance to manage their resources and coordinate their efforts.
 
@@ -24,6 +24,7 @@ To accomplish this, the API will need to support the following operations:
 
 ## Notes
 
+- This challenge doens't require you to implement 100% of the features but everything you do will be reviewed to check your skills
 - Unit test is required
 - Ideally write in Typescript with NestJS, but you can use any language you want
 - You can use any database you want
